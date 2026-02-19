@@ -1,15 +1,16 @@
 {
   "items": [
     {
-      "path": "files/PLAKÁTY/Bez názvu-1.jpg",
+      "path": "files/PLAKÁTY/akademie1925.jpg",
       "type": "image",
-      "title": "Položení základního kamene",
-      "description": "Položení základního kamene Sokolovny, rok 1922."
+      "title": "Akademie TJ Sokol 13. prosince 1925",
+      "description": "Akademie TJ Sokol"
     },
     {
-      "path": "files/PLAKÁTY/DSC_1286a.jpg",
+      "path": "files/PLAKÁTY/akademie1927.jpg",
       "type": "image",
-      "title": "Sokol"
+      "title": "Ručně kreslená pozvánka akademie TJ Sokol 18. listopadu 1927."
+      "description": "Akademie TJ Sokol"
     },
     {
       "path": "files/PLAKÁTY/DSC_1388.jpg",
